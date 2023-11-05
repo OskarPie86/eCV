@@ -42,6 +42,9 @@ aside {
 .list-secondary-item {
   color: #ffffff;
 }
+.list-language {
+  color: #ffffff;
+}
 .contact-block {
   margin-top: 160px;
   margin-left: 40px;
@@ -51,6 +54,14 @@ aside {
   margin-left: 40px;
 }
 .soft-skills-block {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.projects-block {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.language-block {
   margin-top: 40px;
   margin-left: 40px;
 }
@@ -76,10 +87,6 @@ h1 {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 40px;
-}
-.projects {
-  width: 485px;
-  margin-bottom: 51px;
 }
 .list-primary {
   color: #000000;
